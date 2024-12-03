@@ -1,0 +1,15 @@
+/* 设置全局样式 */
+body {
+    margin: 0;
+    background-color: black;
+    overflow: hidden;
+}
+
+/* 容器样式 */
+#tree-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform-style: preserve-3d;
+    transform: translate(-50%, -50%);
+} 
